@@ -2,7 +2,35 @@
 
 A simple CRUD web application for IMS566 project.
 
-## Features
+
+## Features and Functionalities 
+
+ User Authentication 
+
+ Real Time Booking Validation 
+
+Create Booking  
+
+ Double-Booking Prevention 
+
+ View Booking 
+
+ Update Booking 
+
+ Delete Booking 
+ Implied Functionalities 
+
+-Role-based access control 
+
+-Booking Status  
+
+-PDF Receipt export 
+
+
+
+
+
+
 - Login / logout authentication
 - Role-based user: ADMIN and CUSTOMER
 - Hall CRUD
